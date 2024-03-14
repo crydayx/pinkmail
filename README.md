@@ -1,2 +1,3 @@
 # pinkmail
-source code bot send an anonymous message
+> source code bot send an anonymous message
+
